@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="vrtmp">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../vrtmp" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../vrtmp/src" />
+    </SOURCES>
+  </library>
+</component>
